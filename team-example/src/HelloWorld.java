@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 
 /**
@@ -17,7 +17,7 @@ public class HelloWorld {
 	}
 	
 	public static String hw() {
-		return "Hello, World returned method.";
+		return "Hello, World! from another user.";
 	}
 
 }
