@@ -9,16 +9,16 @@
 public class HelloWorld {
 
 	/**
+	 * 特に変なことは多分していないHelloWorld
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
 		System.out.println(hw());
 		System.out.println("ほげほげ");
 	}
-	
+
 	public static String hw() {
-		return "Hello, World! from another user.";
+		return "世界よこんにちは!";
 	}
 
 }
