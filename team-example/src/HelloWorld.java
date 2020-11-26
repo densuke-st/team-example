@@ -17,7 +17,7 @@ public class HelloWorld {
 	}
 
 	public static String hw() {
-		return "Hello, World! from another user.";
+		return "世界よこんにちは!";
 	}
 
 }
