@@ -9,6 +9,7 @@
 public class HelloWorld {
 
 	/**
+	 * 特に変なことは多分していないHelloWorld
 	 * @param args
 	 */
 	public static void main(String[] args) {
