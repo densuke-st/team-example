@@ -18,7 +18,7 @@ public class HelloWorld {
 	}
 
 	public static String hw() {
-		return "世界よこんにちは!";
+		return "世界よこんにちは";
 	}
 
 }
